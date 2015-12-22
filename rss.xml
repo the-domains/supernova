@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Supernova]]></title>
         <description><![CDATA[Supernova]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/supernova/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 21:20:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 21:20:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/supernova/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/754a44b2-4571-400e-aa49-d19d3d4159b2.jpg">]]></description>
+            <link>https://thegrid.ai/supernova/2e11497d-c07d-4f58-b934-48c716851f76/index.html</link>
+            <guid isPermaLink="false">2e11497d-c07d-4f58-b934-48c716851f76</guid>
+            <pubDate>Tue, 22 Dec 2015 21:20:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c73cea-9fe0-4428-a445-5c47e5ec08c6.jpg">]]></description>
-            <link>undefinedebfefbf2-d7fd-44ed-ad50-e28f6a3c1078/index.html</link>
+            <link>https://thegrid.ai/supernova/ebfefbf2-d7fd-44ed-ad50-e28f6a3c1078/index.html</link>
             <guid isPermaLink="false">ebfefbf2-d7fd-44ed-ad50-e28f6a3c1078</guid>
             <pubDate>Tue, 22 Dec 2015 21:20:11 GMT</pubDate>
         </item>
