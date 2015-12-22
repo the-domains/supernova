@@ -2,6 +2,7 @@ name: supernova
 favicon: null
 layout_spectrum: 0.8173453228082508
 typography_spectrum: 0.2469220352359116
+title: Supernova
 cta:
   domain: null
   bucket: null
